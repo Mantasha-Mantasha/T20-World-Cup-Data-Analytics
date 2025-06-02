@@ -1,0 +1,11 @@
+match_id,batsman,batsman_runs,bowler,total_runs,toss_winner,match_winner,venue
+1,V Kohli,72,H Ali,170,India,India,Dubai
+2,D Warner,89,M Starc,180,Australia,Australia,Sydney
+3,B Azam,50,J Bumrah,160,Pakistan,Pakistan,Lahore
+4,J Buttler,101,S Afridi,200,England,England,Melbourne
+5,G Maxwell,35,M Wood,145,England,Australia,Delhi
+6,S Yadav,65,H Rauf,175,India,India,Ahmedabad
+7,R Sharma,48,H Ali,155,India,Pakistan,Dubai
+8,D Conway,42,A Zampa,138,New Zealand,Australia,Sydney
+9,F Zaman,55,B Stokes,165,Pakistan,Pakistan,Lahore
+10,J Roy,60,S Afridi,185,England,England,Melbourne
